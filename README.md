@@ -19,6 +19,11 @@ study github by practicing
 > 分支创建feature分支练习
 
 > 合并请求 `pull requests` 练习 也就是pr
- >>
- >> ```python print("Hello World!")```
- >> 合并请求测试
+  >> 合并请求测试
+
+
+> 代码块修改测试
+```python
+print("Hello World!")
+```
+
