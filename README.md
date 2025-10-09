@@ -11,3 +11,7 @@ study github by practicing
   >> 4. RAG
   >> 5. 微调
   >> 6. 企业实战
+
+> 创建小仓库gist
+  >> https://gist.github.com/DouXiulu/ae65fefeee8a6a1724a7702c6d4233f6
+  >> <script src="https://gist.github.com/DouXiulu/ae65fefeee8a6a1724a7702c6d4233f6.js"></script>
