@@ -27,3 +27,6 @@ study github by practicing
 print("Hello World!")
 ```
 
+> project
+ >> 项目看板
+ >> 管理、跟踪项目进度任务
