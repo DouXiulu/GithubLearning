@@ -15,3 +15,15 @@ study github by practicing
 > 创建小仓库gist
   >> https://gist.github.com/DouXiulu/ae65fefeee8a6a1724a7702c6d4233f6
   >> <script src="https://gist.github.com/DouXiulu/ae65fefeee8a6a1724a7702c6d4233f6.js"></script>
+
+> 分支创建feature分支练习
+
+> 合并请求 `pull requests` 练习 也就是pr
+  >> 合并请求测试
+
+
+> 代码块修改测试
+```python
+print("Hello World!")
+```
+
