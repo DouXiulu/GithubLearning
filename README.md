@@ -30,3 +30,7 @@ print("Hello World!")
 > project
  >> 项目看板
  >> 管理、跟踪项目进度任务
+
+ ## 2025年10月11日
+
+ ### 学习冲突解决 resolve conflict
