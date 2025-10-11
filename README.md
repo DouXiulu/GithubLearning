@@ -33,4 +33,4 @@ print("Hello World!")
 
  ## 2025年10月11日
 
- ### 学习冲突解决 上次修改main
+ ### 学习冲突解决 resolve conflict
