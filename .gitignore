@@ -1,0 +1,4 @@
+.venv/
+.github/
+/配置文件
+/Dockerfile
