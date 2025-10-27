@@ -41,8 +41,8 @@ jobs:
   pyinstaller-build:
     runs-on: windows-latest
     steps:
-      - name : Create Excutable
-       uses: sayyid5416/pyinstaller@v1
+      - name : Create Executable
+       uses: eric2788/pyinstaller-build@0.1.3
        with:
          python_ver: '3.12'
          spec: 'main.py'
