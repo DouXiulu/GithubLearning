@@ -39,3 +39,28 @@ print("Hello World!")
  > 诗意地理解生活，理解我们周围的一切，是我们从童年时代得到的最可贵的礼物。 ---帕乌斯托夫斯基- 
 
 
+##2025年10月27日
+
+### 学习git指令
+	1. git add
+	2. git add .
+	3. git commit -m "message"
+	4. git push
+	5.git pull --rebase (将默认的git pull也就是git fetch和git merge) git config pull.rebase true
+	> . git pull
+```
+   -----b
+a	-----d
+   -----c
+上面是git pull
+
+改成git pull --rebase，下面
+a-----b
+a-----c
+
+a-----b-----c
+```
+	 
+	
+
+
